@@ -7,7 +7,7 @@ I'm a former Data Scientist turned Math teacher, now shifting back to tech with 
 - **Hobbies:** 📓 Bookbinding, 🕮 Reading, ✒️ Writing, 🔍 Escape Games, 🏃‍♀️‍➡️ Running, 🏸 Badminton
 
 To see what I'm learning, see my [blog](https://clembytes.fr/).
-I am also having fun on CodinGames sometimes:
+I am also having fun on CodinGame sometimes:
 
 <a href="https://www.codingame.com/profile/2fd6c27154680fa40354f78b6cd1d0829766093">
   <img src="data/CodinGame_Logo.svg" alt="CodinGame logo" width="200" />
