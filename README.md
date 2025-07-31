@@ -2,7 +2,7 @@
 
 I'm a former Data Scientist turned Math teacher, now shifting back to tech with a strong focus on software engineering and data science. Passionate about learning and problem solving.
 
-- **Tech:** 🐍 Python (<img src="data/jupyter.png" alt="Jupyter logo" width="15"/> Jupyter, <img src="data/pytorch.png" alt="PyTorch logo" width="15"/> PyTorch, <img src="data/pandas.png" alt="Pandas logo" width="15"/> Pandas, <img src="data/matplotlib.png" alt="Matplotlib logo" width="15"/> Matplotlib/Plotly, <img src="data/ursina_engine.png" alt="Ursina logo" width="15"/> Ursina Engine), 💥 C, <img src="data/git.png" alt="Git logo" width="15"/> Git, <img src="data/linux.png" alt="Linux logo" width="15"/> Linux
+- **Tech:** 🦀 Rust, 🐍 Python (<img src="data/jupyter.png" alt="Jupyter logo" width="15"/> Jupyter, <img src="data/pytorch.png" alt="PyTorch logo" width="15"/> PyTorch, <img src="data/pandas.png" alt="Pandas logo" width="15"/> Pandas), 💥 C, <img src="data/git.png" alt="Git logo" width="15"/> Git, <img src="data/linux.png" alt="Linux logo" width="15"/> Linux
 - **Languages:** 🇫🇷 French (native), 🇺🇸 English (fluent) , 🇯🇵 Japanese (beginner)
 - **Hobbies:** 📓 Bookbinding, 🕮 Reading, ✒️ Writing, 🔍 Escape Games, 🏃‍♀️ Running, 🏸 Badminton
 
